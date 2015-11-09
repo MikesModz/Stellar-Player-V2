@@ -18,6 +18,10 @@ index reaches the song length naturally. Some composers may have used JUMPTOORDE
 automatically jump to a specific order and hence never reach the end of the module. In this 
 case the module will continually loop.
 
+## Usage
+
+Place all your .mod and .s3m files into the /mods folder of the SD card.
+
 ## Features
 
 - 128 x 160 SPI TFT module (ST7735 based).
